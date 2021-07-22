@@ -1,3 +1,5 @@
+<h1>Stage 1/5: Meet the markdown_</h1>
+
 <h2>Description</h2>
 
 <p>Welcome to the first stage of the project! </p>
