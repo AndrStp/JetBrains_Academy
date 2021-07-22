@@ -32,18 +32,21 @@
 
 <p>Plain<em>,</em> bold, italic, and inline-code formatters require only text input, and should <strong>not</strong> add an extra space or line break at the end:</p>
 
-<pre>	<code class="language-no-highlight">Text: &gt; Some text</code>
+<pre>	<code class="language-no-highlight">
+Text: &gt; Some text</code>
 </pre>
 
 <p>Headers require<em> </em>a level and text. A level is a number from 1 to 6. Don't forget to check it too: if it is out of bounds, print the corresponding error: <code class="java">The level should be within the range of 1 to 6</code>. Also, remember that a heading automatically adds a new line in the end.</p>
 
-<pre>	<code class="language-no-highlight">Level: &gt; 4
+<pre>	<code class="language-no-highlight">
+Level: &gt; 4
 Text: &gt; Hello World!</code>
 </pre>
 
 <p>Link requires a label and a URL:</p>
 
-<pre>	<code class="language-no-highlight">Label: &gt; Tutorial
+<pre>	<code class="language-no-highlight">
+Label: &gt; Tutorial
 URL: &gt; https://www.markdownguide.org/basic-syntax/</code>
 </pre>
 
@@ -53,7 +56,8 @@ URL: &gt; https://www.markdownguide.org/basic-syntax/</code>
 
 <p><strong>Example 1:</strong> <em>the header<strong> </strong>formatter automatically adds a line break</em></p>
 
-<pre>	<code class="language-no-highlight">Choose a formatter: &gt; non-existing-formatter
+<pre>	<code class="language-no-highlight">
+Choose a formatter: &gt; non-existing-formatter
 Unknown formatter type or command
 Choose a formatter: &gt; header
 Level: &gt; 4
