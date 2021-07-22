@@ -12,7 +12,8 @@
 
 <p>Both of the formatters require the following input:</p>
 
-<pre>	<code class="language-no-highlight">Number of rows: &gt; 3
+<pre>	<code class="language-no-highlight">
+Number of rows: &gt; 3
 Row #1: &gt; First element
 Row #2: &gt; Second element
 Row #3: &gt; Third element</code>
@@ -28,7 +29,8 @@ Row #3: &gt; Third element</code>
 
 <p><strong>Example 1:</strong> <em>the formatters automatically add a line break</em></p>
 
-<pre>	<code class="language-no-highlight">python markdown-editor.py
+<pre>	<code class="language-no-highlight">
+python markdown-editor.py
 Choose a formatter: &gt; ordered-list
 Number of rows: &gt; 3
 Row #1: &gt; First element
