@@ -67,4 +67,5 @@ Throughout the learning process, you will choose projects that correspond to you
   <li>Arithmetic Exam Application</li>
   <li>Duplicate File Handler</li>
   <li>Bill Splitter</li>
+  <li>Markdown Editor</li>
 </ul>
