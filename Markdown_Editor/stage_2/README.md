@@ -1,3 +1,5 @@
+<h1>Stage 2/5: How do I use it?</h1>
+
 <h2>Description</h2>
 
 <p>Before we start implementing the project, we need to think about the functionality. Remember <a target="_blank" href="https://www.markdownguide.org/basic-syntax/" rel="noopener noreferrer nofollow">the Markdown Guide</a> from the previous stage? Let's go through it one more time and recall the basic features:</p>
