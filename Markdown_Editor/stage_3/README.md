@@ -1,3 +1,5 @@
+<h1>Stage 3/5: Text formatting</h1>
+
 <h2>Description</h2>
 
 <p>Congratulations! You've made it to the most interesting part of the project. Now we will try to implement the formatters that we have discussed before. For your convenience, I will copypaste them from the previous stage:</p>
