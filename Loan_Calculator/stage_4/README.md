@@ -22,11 +22,13 @@
 
 <p>You can run your loan calculator via command line like this:</p>
 
-<pre><code class="language-no-highlight">python creditcalc.py</code></pre>
+<pre><code class="language-no-highlight">
+python creditcalc.py</code></pre>
 
 <p>Using command-line arguments you can run your program this way:</p>
 
-<pre><code class="language-no-highlight">python creditcalc.py --type=diff --principal=1000000 --periods=10 --interest=10</code></pre>
+<pre><code class="language-no-highlight">
+python creditcalc.py --type=diff --principal=1000000 --periods=10 --interest=10</code></pre>
 
 <p>This way, your program can get different values without prompting the user to input them. It can be useful when you are developing your program and trying to find a mistake, and you want to run the program with the same parameters again and again. It's also convenient if you made a mistake in a single parameter: you don't have to input all the other values again.</p>
 
@@ -45,29 +47,34 @@
 <ul>
 	<li><code class="java">--type</code> indicates the type of payment: <code class="java">"annuity"</code> or <code class="java">"diff"</code> (differentiated). If <code class="java">--type</code> is specified neither as <code class="java">"annuity"</code> nor as <code class="java">"diff"</code> or not specified at all, show the error message.
 
-	<pre><code class="language-no-highlight">&gt; python creditcalc.py --principal=1000000 --periods=60 --interest=10
+	<pre><code class="language-no-highlight">
+	&gt; python creditcalc.py --principal=1000000 --periods=60 --interest=10
 Incorrect parameters</code></pre>
 	</li>
 	<li><code class="java">--payment</code> is the monthly payment amount. For <code class="java">--type=diff</code>, the payment is different each month, so we can't calculate months or principal, therefore a combination with <code class="java">--payment</code> is invalid, too:
-	<pre><code class="language-no-highlight">&gt; python creditcalc.py --type=diff --principal=1000000 --interest=10 --payment=100000
+	<pre><code class="language-no-highlight">
+	&gt; python creditcalc.py --type=diff --principal=1000000 --interest=10 --payment=100000
 Incorrect parameters</code></pre>
 	</li>
 	<li><code class="java">--principal</code> is used for calculations of both types of payment. You can get its value if you know the interest, annuity payment, and number of months.</li>
 	<li><code class="java">--periods</code> denotes the number of months needed to repay the loan. It's calculated based on the interest, annuity payment, and principal.</li>
 	<li><code class="java">--interest</code> is specified without a percent sign. Note that it can accept a floating-point value. Our loan calculator can't calculate the interest, so it must always be provided. These parameters are incorrect because <code class="java">--interest</code> is missing:
-	<pre><code class="language-no-highlight">&gt; python creditcalc.py --type=annuity --principal=100000 --payment=10400 --periods=8
+	<pre><code class="language-no-highlight">
+	&gt; python creditcalc.py --type=annuity --principal=100000 --payment=10400 --periods=8
 Incorrect parameters</code></pre>
 	</li>
 </ul>
 
 <p>You may have noticed that for differentiated payments you will need 4 out of 5 parameters (excluding payment), and the same is true for annuity payments (the user will be calculating the number of payments, the payment amount, or the loan principal). Thus, you should also display an error message when fewer than four parameters are provided:</p>
 
-<pre><code class="language-no-highlight">&gt; python creditcalc.py --type=annuity --principal=1000000 --payment=104000
+<pre><code class="language-no-highlight">
+&gt; python creditcalc.py --type=annuity --principal=1000000 --payment=104000
 Incorrect parameters</code></pre>
 
 <p>You should also display an error message when negative values are entered:</p>
 
-<pre><code class="language-no-highlight">&gt; python creditcalc.py --type=diff --principal=30000 --periods=-14 --interest=10
+<pre><code class="language-no-highlight">
+&gt; python creditcalc.py --type=diff --principal=30000 --periods=-14 --interest=10
 Incorrect parameters</code></pre>
 
 <p>The only thing left is to compute the overpayment: the amount of interest paid over the whole term of the loan. Voila: you have a real loan calculator!</p>
@@ -78,7 +85,8 @@ Incorrect parameters</code></pre>
 
 <p><strong>Example 1: </strong><em>calculating differentiated payments</em></p>
 
-<pre><code class="language-no-highlight">&gt; python creditcalc.py --type=diff --principal=1000000 --periods=10 --interest=10
+<pre><code class="language-no-highlight">&gt; 
+python creditcalc.py --type=diff --principal=1000000 --periods=10 --interest=10
 Month 1: payment is 108334
 Month 2: payment is 107500
 Month 3: payment is 106667
