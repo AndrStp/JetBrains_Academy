@@ -49,19 +49,22 @@ python creditcalc.py --type=diff --principal=1000000 --periods=10 --interest=10<
 
 	<pre><code class="language-no-highlight">
 	&gt; python creditcalc.py --principal=1000000 --periods=60 --interest=10
-Incorrect parameters</code></pre>
+Incorrect parameters
+	</code></pre>
 	</li>
 	<li><code class="java">--payment</code> is the monthly payment amount. For <code class="java">--type=diff</code>, the payment is different each month, so we can't calculate months or principal, therefore a combination with <code class="java">--payment</code> is invalid, too:
 	<pre><code class="language-no-highlight">
 	&gt; python creditcalc.py --type=diff --principal=1000000 --interest=10 --payment=100000
-Incorrect parameters</code></pre>
+Incorrect parameters
+	</code></pre>
 	</li>
 	<li><code class="java">--principal</code> is used for calculations of both types of payment. You can get its value if you know the interest, annuity payment, and number of months.</li>
 	<li><code class="java">--periods</code> denotes the number of months needed to repay the loan. It's calculated based on the interest, annuity payment, and principal.</li>
 	<li><code class="java">--interest</code> is specified without a percent sign. Note that it can accept a floating-point value. Our loan calculator can't calculate the interest, so it must always be provided. These parameters are incorrect because <code class="java">--interest</code> is missing:
 	<pre><code class="language-no-highlight">
 	&gt; python creditcalc.py --type=annuity --principal=100000 --payment=10400 --periods=8
-Incorrect parameters</code></pre>
+Incorrect parameters
+	</code></pre>
 	</li>
 </ul>
 
