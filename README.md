@@ -69,4 +69,5 @@ Throughout the learning process, you will choose projects that correspond to you
   <li>Bill Splitter</li>
   <li>Markdown Editor</li>
   <li>University Admission Procedure</li>
+  <li>Food Blog Backend</li>
 </ul>
