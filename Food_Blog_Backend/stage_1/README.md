@@ -52,7 +52,7 @@ conn.close()
 	<li>Do not add other items to the dictionaries. This may affect the test results in this and the next stages.</li>
 </ol>
 
-<p>Hint</p>
+<p><b>Hint</b></p>
 <p>If you would like to see how your database looks like, you can use the <strong>DB Browser for SQLite </strong>tool. It can be downloaded from <a target="_blank" href="https://sqlitebrowser.org/" rel="noopener noreferrer nofollow">sqlitebrowser.org</a> for free.</p>
 
 <h2>Example </h2>
