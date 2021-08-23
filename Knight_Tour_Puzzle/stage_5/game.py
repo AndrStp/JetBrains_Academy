@@ -25,7 +25,7 @@ def main():
             continue
         make_move(board, cell_size, position, knight_position)
         moves_made += 1
-        knight_position = position # assign new current knight_position
+        knight_position = position
         pos_moves = find_possible_moves(board, knight_position)
         pos_moves_num = find_possible_move_num(board, pos_moves)
         display_board(mark_possible_moves(board, cell_size, pos_moves, pos_moves_num), cell_size)
@@ -88,12 +88,6 @@ def take_position(board: list) -> tuple or bool:
             continue
 
         return row, column
-
-
-def into_chess(board: list, coordinates: tuple) -> tuple:
-    """Return the coordinates for chess board"""
-    column, row = coordinates[0] + 1, abs(len(board) - coordinates[1])
-    return column, row
 
 
 def into_index(board: list, coordinates: tuple) -> tuple:
