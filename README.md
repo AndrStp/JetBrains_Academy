@@ -71,4 +71,5 @@ Throughout the learning process, you will choose projects that correspond to you
   <li>University Admission Procedure</li>
   <li>Food Blog Backend</li>
   <li>Knight's Tour Puzzle</li>
+  <li>Data Analysis for Hospitals</li>
 </ul>
