@@ -71,5 +71,5 @@ Throughout the learning process, you will choose projects that correspond to you
   <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/University_Admission_Procedure>University Admission Procedure</li>
   <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/Food_Blog_Backend>Food Blog Backend</li>
   <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/Knight_Tour_Puzzle>Knight's Tour Puzzle</li>
-  <li><a href=Data Analysis for Hospitals</li>
+  <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/Data_Analysis_Hospitals>Data Analysis for Hospitals</li>
 </ul>
