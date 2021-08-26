@@ -13,14 +13,14 @@ Completing projects will help you approach a complex problem by breaking it down
 <b>Simple</b>
 <ul>
   <li>Simple Chatty Bot</li>
-  <li>Zookeeper</li>
+  <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/Zoo_Keeper>Zookeeper</a></li>
 </ul>
 
 <b>Challenging</b>
 <ul>
-  <li>Hangman</li>
-  <li>Simple Tic-Tac-Toe</li>
-  <li>Loan Caclulator</li>
+  <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/Hangman/task/hangman>Hangman</a></li>
+  <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/TicTacToe>Simple Tic-Tac-Toe</a></li>
+  <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/Loan_Calculator>Loan Caclulator</a></li>
 </ul>
 
 <hr>
@@ -53,23 +53,23 @@ Throughout the learning process, you will choose projects that correspond to you
 
 <b>Simple</b>
 <ul>
-  <li>Dominoes</li>
-  <li>Coffee Machine</li>
-  <li>Generating Randomness</li>
+  <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/Dominoes>Dominoes</a></li>
+  <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/Coffee_Machine>Coffee Machine</a></li>
+  <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/Randomness>Generating Randomness</a></li>
 </ul>
 
 <b>Medium</b>
 <ul>
   <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/simple_banking_system>Simple Banking System</a></li>
-  <li>Currency Converter</li>
-  <li>Loan Caclulator</li>
-  <li>Web Scraper</li>
-  <li>Arithmetic Exam Application</li>
-  <li>Duplicate File Handler</li>
-  <li>Bill Splitter</li>
-  <li>Markdown Editor</li>
-  <li>University Admission Procedure</li>
-  <li>Food Blog Backend</li>
-  <li>Knight's Tour Puzzle</li>
-  <li>Data Analysis for Hospitals</li>
+  <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/Currency_Converter>Currency Converter</li>
+  <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/Loan_Calculator>Loan Caclulator</li>
+  <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/Web_Scraper>Web Scraper</li>
+  <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/arithmetic>Arithmetic Exam Application</li>
+  <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/Duplicate_File_Handler>Duplicate File Handler</li>
+  <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/Bill_Splitter>Bill Splitter</li>
+  <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/Markdown_Editor>Markdown Editor</li>
+  <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/University_Admission_Procedure>University Admission Procedure</li>
+  <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/Food_Blog_Backend>Food Blog Backend</li>
+  <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/Knight_Tour_Puzzle>Knight's Tour Puzzle</li>
+  <li><a href=Data Analysis for Hospitals</li>
 </ul>
