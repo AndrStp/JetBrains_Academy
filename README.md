@@ -60,7 +60,7 @@ Throughout the learning process, you will choose projects that correspond to you
 
 <b>Medium</b>
 <ul>
-  <li>Simple Banking System</li>
+  <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/simple_banking_system>Simple Banking System</a></li>
   <li>Currency Converter</li>
   <li>Loan Caclulator</li>
   <li>Web Scraper</li>
