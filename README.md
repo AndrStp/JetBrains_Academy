@@ -74,3 +74,15 @@ Throughout the learning process, you will choose projects that correspond to you
   <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/Data_Analysis_Hospitals>Data Analysis for Hospitals</a></li>
   <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/Numeric_Matrix_Processor>Numeric Matrix Processor</a></li>
 </ul>
+
+<b>Hard</b>
+<ul>
+  <li><a href=>To-Do List</a></li>
+  <li><a href=>Weather App</a></li>
+  <li><a href=></a></li>
+  <li><a href=></a></li>
+   <li><a href=></a></li>
+  <li><a href=></a></li>
+  <li><a href=></a></li>
+  <li><a href=></a></li>
+</ul>
