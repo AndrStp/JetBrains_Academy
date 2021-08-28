@@ -72,5 +72,5 @@ Throughout the learning process, you will choose projects that correspond to you
   <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/Food_Blog_Backend>Food Blog Backend</a></li>
   <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/Knight_Tour_Puzzle>Knight's Tour Puzzle</a></li>
   <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/Data_Analysis_Hospitals>Data Analysis for Hospitals</a></li>
-  <li><a href=>Numeric Matrix Processor</a></li>
+  <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/Numeric_Matrix_Processor>Numeric Matrix Processor</a></li>
 </ul>
