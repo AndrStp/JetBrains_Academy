@@ -61,15 +61,16 @@ Throughout the learning process, you will choose projects that correspond to you
 <b>Medium</b>
 <ul>
   <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/simple_banking_system>Simple Banking System</a></li>
-  <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/Currency_Converter>Currency Converter</li>
-  <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/Loan_Calculator>Loan Caclulator</li>
-  <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/Web_Scraper>Web Scraper</li>
-  <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/arithmetic>Arithmetic Exam Application</li>
-  <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/Duplicate_File_Handler>Duplicate File Handler</li>
-  <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/Bill_Splitter>Bill Splitter</li>
-  <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/Markdown_Editor>Markdown Editor</li>
-  <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/University_Admission_Procedure>University Admission Procedure</li>
-  <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/Food_Blog_Backend>Food Blog Backend</li>
-  <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/Knight_Tour_Puzzle>Knight's Tour Puzzle</li>
-  <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/Data_Analysis_Hospitals>Data Analysis for Hospitals</li>
+  <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/Currency_Converter>Currency Converter</a></li>
+  <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/Loan_Calculator>Loan Caclulator</a></li>
+  <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/Web_Scraper>Web Scraper</a></li>
+  <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/arithmetic>Arithmetic Exam Application</a></li>
+  <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/Duplicate_File_Handler>Duplicate File Handler</a></li>
+  <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/Bill_Splitter>Bill Splitter</a></li>
+  <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/Markdown_Editor>Markdown Editor</a></li>
+  <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/University_Admission_Procedure>University Admission Procedure</a></li>
+  <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/Food_Blog_Backend>Food Blog Backend</a></li>
+  <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/Knight_Tour_Puzzle>Knight's Tour Puzzle</a></li>
+  <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/Data_Analysis_Hospitals>Data Analysis for Hospitals</a></li>
+  <li><a href=>Numeric Matrix Processor</a></li>
 </ul>
