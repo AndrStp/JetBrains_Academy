@@ -14,9 +14,9 @@ find the main statistical characteristics, and visualize your data. Let's do it!
 
 <h2>What you’ll do and what you’ll learn</h2>
 <ul>
-  <li><b>Stage 1/5: </b><p>Deal with CSV files to make datasets in Python.</p></li>
-  <li><b>Stage 2/5: </b><p>Make a single dataset from several CSV files.</p></li>
-  <li><b>Stage 3/5: </b><p>Your dataset may be inconsistent and contain mistakes, it's time to improve it!</p></li>
-  <li><b>Stage 4/5: </b><p>Use the pandas' statistics tools to find the features of your data.</p></li>
-  <li><b>Stage 5/5: </b><p>Use the pandas' visualization tools to present your data aesthetically.</p></li>
+  <li><b>Stage 1/5: Uploda the data</b><p>Deal with CSV files to make datasets in Python.</p></li>
+  <li><b>Stage 2/5: Merge them!</b><p>Make a single dataset from several CSV files.</p></li>
+  <li><b>Stage 3/5: Improve your dataset</b><p>Your dataset may be inconsistent and contain mistakes, it's time to improve it!</p></li>
+  <li><b>Stage 4/5: The statistics</b><p>Use the pandas' statistics tools to find the features of your data.</p></li>
+  <li><b>Stage 5/5: Visualize it!</b><p>Use the pandas' visualization tools to present your data aesthetically.</p></li>
 </ul>
