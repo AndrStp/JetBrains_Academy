@@ -30,12 +30,8 @@
 	<li>Print random 20 rows of the resulting data frame. For the reproducible output set <code class="language-python">random_state=30</code></li>
 </ol>
 
-<p><button
-        class="btn-sm btn-outline-secondary"
-        onclick="getElementById('hint-2487').style.display='inline'">
-        Hint
-      </button>
-      <div id="hint-2487" style="display:none;">To complete the last step use <code class="language-python">pandas.DataFrame.sample(n=20, random_state=30)</code>.</div></p>
+<p><b>Hint</b></p>
+<p>pandas.DataFrame.sample(n=20, random_state=30)</p>
 
 <p>If you have corrupted CSV files, please <a target="_blank" href="https://stepik.org/media/attachments/lesson/467509/files.zip" rel="noopener noreferrer nofollow">download them</a> and unzip in your working directory.</p>
 
