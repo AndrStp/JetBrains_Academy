@@ -37,11 +37,7 @@ def add_matrices(matrix_1: List[list], matrix_2: List[list]) -> Optional[List[li
 
 def multiply_matrix(matrix: List[list], constant: int) -> List[list]:
     """Return the result of multiplying a matrix by a constant"""
-    new_matrix = []
-    for row in matrix:
-        row_ = [cell * constant for cell in row]
-        new_matrix.append(row_)
-    return new_matrix
+    return [[cell * constant for cell in row] for row in matrix]
 
 
 def check_matrices(matrix_1: List[list], matrix_2: List[list]) -> bool:
