@@ -3,9 +3,9 @@ from typing import List, Optional
 
 def main():
     row, column = map(int, input().split())
-    m1 = make_matrix(row, column)
+    m1 = make_matrix(row)
     row, column = map(int, input().split())
-    m2 = make_matrix(row, column)
+    m2 = make_matrix(row)
     m_sum = add_matrices(m1, m2)
     if m_sum:
         display_matrix(m_sum)
@@ -13,13 +13,9 @@ def main():
         print('ERROR')
 
 
-def make_matrix(row: int, col: int) -> List[list]:
-    """Return the matrix with given n columns and rows"""
-    matrix = []
-    for i in range(row):
-        row_ = list(map(int, input().split()))
-        matrix.append(row_)
-    return matrix
+def make_matrix(row: int) -> List[list]:
+    """Return the matrix with given n rows"""
+    return [list(map(int, input().split())) for _ in range(row)]
 
 
 def add_matrices(matrix_1: List[list], matrix_2: List[list]) -> Optional[List[list]]:
