@@ -25,7 +25,7 @@ Completing projects will help you approach a complex problem by breaking it down
 
 <hr>
 
-<a href=https://hyperskill.org/tracks/2><h1>Python Developer Track</h1></a>
+<a href=https://hyperskill.org/tracks/2><h1>Python Developer Track*</h1></a>
 
 <b>Description:</b>
 
@@ -75,14 +75,8 @@ Throughout the learning process, you will choose projects that correspond to you
   <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/Numeric_Matrix_Processor>Numeric Matrix Processor</a></li>
 </ul>
 
-<b>Hard</b>
-<ul>
-  <li><a href=>To-Do List</a></li>
-  <li><a href=>Weather App</a></li>
-  <li><a href=></a></li>
-  <li><a href=></a></li>
-   <li><a href=></a></li>
-  <li><a href=></a></li>
-  <li><a href=></a></li>
-  <li><a href=></a></li>
-</ul>
+<b>*</b> The Python Developer Track was depreceated. Python Core was introduced instead. See https://www.reddit.com/r/Hyperskill/comments/prvapf/python_core_track_on_jetbrains_academy/.
+
+<hr>
+
+<a href=https://hyperskill.org/tracks/2><h1>Python Core</h1></a>
