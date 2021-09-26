@@ -87,7 +87,7 @@ This track will guide you on your path of mastering Python, one of the much-in-d
 
 <h2>Projects:</h2>
 
-<b>hard</b>
+<b>Hard</b>
 <ul>
   <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/TextBased_Browser>Text-Based Browser</a></li>
   <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/Tetris>Tetris</a></li>
