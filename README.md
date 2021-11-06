@@ -91,7 +91,7 @@ This track will guide you on your path of mastering Python, one of the much-in-d
 <ul>
   <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/TextBased_Browser>Text-Based Browser</a></li>
   <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/Tetris>Tetris</a></li>
-  <li><a href=https://github.com/AndrStp/JetBrains_Academy/404>Not_yet</a></li>
+  <li><a href=https://github.com/AndrStp/JetBrains_Academy/tree/Projects/Multi_Lang_Translator>Multilingual Online Translator</a></li>
 </ul>
 
 <b>Challenging</b>
