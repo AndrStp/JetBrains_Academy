@@ -96,7 +96,7 @@ This track will guide you on your path of mastering Python, one of the much-in-d
 
 <b>Challenging</b>
 <ul>
-  <li><a href=https://github.com/AndrStp/JetBrains_Academy/404>Not_yet</a></li>
+  <li><a href=https://github.com/AndrStp/JetBrains_Academy/Password_Hacker>Password Hacker</a></li>
 </ul>
 
 <b>Other</b>
