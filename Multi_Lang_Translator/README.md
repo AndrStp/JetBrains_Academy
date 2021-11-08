@@ -10,4 +10,12 @@ You will learn to work with loops and conditions, pip and packages. You’ll be 
 <b><a href='https://hyperskill.org/tracks/2'>Python Core</a>,</b> <b><a href='https://hyperskill.org/tracks/11'>Django Developer</a></b>
 
 <h2>What you’ll do and what you’ll learn</h2>
-
+<ul>
+  <li><b>Stage 1/7: Repeater</b><p>Write a program you can talk to</p></li>
+  <li><b>Stage 2/7: Over the internet</b><p>Get the translation from the web</p></li>
+  <li><b>Stage 3/7: Translations</b><p>Create a readable result</p></li>
+  <li><b>Stage 4/7: All of them</b><p>Add more languages</p></li>
+  <li><b>Stage 5/7: Simultaneous translations</b><p>Translate to all languages and write to the file</p></li>
+  <li><b>Stage 6/7: Faster translation</b><p>Add command-line arguments</p></li>
+  <li><b>Stage 7/7: Unexpected</b><p>Handle an unexpected behavior</p></li>
+</ul>
